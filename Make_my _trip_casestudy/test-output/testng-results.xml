@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T17:18:41Z" name="Default suite" finished-at="2022-11-09T17:21:06Z" duration-ms="144736">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T17:18:41Z" name="Default test" finished-at="2022-11-09T17:21:06Z" duration-ms="144736">
+      <class name="Make_my_trip_casestudy.mmt">
+        <test-method is-config="true" signature="BT()[pri:0, instance:Make_my_trip_casestudy.mmt@14bee915]" started-at="2022-11-09T22:48:41Z" name="BT" finished-at="2022-11-09T22:48:48Z" duration-ms="7561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="tc1()[pri:0, instance:Make_my_trip_casestudy.mmt@14bee915]" started-at="2022-11-09T22:48:48Z" name="tc1" finished-at="2022-11-09T22:49:19Z" duration-ms="30588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:1, instance:Make_my_trip_casestudy.mmt@14bee915]" started-at="2022-11-09T22:49:19Z" name="tc2" finished-at="2022-11-09T22:50:08Z" duration-ms="49431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:2, instance:Make_my_trip_casestudy.mmt@14bee915]" started-at="2022-11-09T22:50:08Z" name="tc3" finished-at="2022-11-09T22:50:43Z" duration-ms="34927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method signature="tc4()[pri:3, instance:Make_my_trip_casestudy.mmt@14bee915]" started-at="2022-11-09T22:50:43Z" name="tc4" finished-at="2022-11-09T22:51:06Z" duration-ms="22182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- Make_my_trip_casestudy.mmt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-09T17:22:48Z" name="Surefire suite" finished-at="2022-11-09T17:25:10Z" duration-ms="141536">
+    <groups>
+    </groups>
+    <test started-at="2022-11-09T17:22:48Z" name="Surefire test" finished-at="2022-11-09T17:25:10Z" duration-ms="141536">
+      <class name="Make_my_trip_casestudy.mmt">
+        <test-method is-config="true" signature="BT()[pri:0, instance:Make_my_trip_casestudy.mmt@5c6648b0]" started-at="2022-11-09T22:52:48Z" name="BT" finished-at="2022-11-09T22:52:54Z" duration-ms="5186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method signature="tc1()[pri:0, instance:Make_my_trip_casestudy.mmt@5c6648b0]" started-at="2022-11-09T22:52:54Z" name="tc1" finished-at="2022-11-09T22:53:24Z" duration-ms="30101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:1, instance:Make_my_trip_casestudy.mmt@5c6648b0]" started-at="2022-11-09T22:53:24Z" name="tc2" finished-at="2022-11-09T22:54:12Z" duration-ms="48549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:2, instance:Make_my_trip_casestudy.mmt@5c6648b0]" started-at="2022-11-09T22:54:12Z" name="tc3" finished-at="2022-11-09T22:54:48Z" duration-ms="35532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method signature="tc4()[pri:3, instance:Make_my_trip_casestudy.mmt@5c6648b0]" started-at="2022-11-09T22:54:48Z" name="tc4" finished-at="2022-11-09T22:55:10Z" duration-ms="22139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- Make_my_trip_casestudy.mmt -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
